@@ -29,6 +29,6 @@ public void tsal(){
         e1.tsal();
         System.out.println("2nd employee");
         e2.tsal();
-        
+         
     }
 }
