@@ -21,7 +21,7 @@ class CPU {
         double getCache(){
             return 4.3;
         }
-    }
+    } 
 
     // nested protected class
     protected class RAM{
