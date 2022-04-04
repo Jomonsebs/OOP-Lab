@@ -5,7 +5,7 @@
  */
 package student;
 /**
- *
+ * 
  * @author sjcet
  */
 import java.util.Scanner;
