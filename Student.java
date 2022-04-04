@@ -23,7 +23,7 @@ public void sum(){
 }
 public void per(){
  
-    float pe=((m1+m2+m3)*100)/100;
+    float pe=((m1+m2+m3)*100)/100; 
             System.out.println("percentage is" +pe);
 }
     public static void main(String[] args) {
